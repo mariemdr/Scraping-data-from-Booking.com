@@ -1,0 +1,106 @@
+Airline_depart,Temps_depart_tunis,Temps_arrivee_paris,Duree_Tun_Paris,Airline_arrivee,Temps_depart_paris,Temps_arrivee_tunis,Duree_Paris_Tun,Prix
+Nouvelair,08:00,10:30,2h 30min,Nouvelair,11:30,13:55,2h 25min,1 397 TND au total
+Nouvelair,08:00,10:30,2h 30min,Nouvelair,18:30,20:55,2h 25min,1 397 TND au total
+Nouvelair,15:00,17:30,2h 30min,Nouvelair,18:30,20:55,2h 25min,1 493 TND au total
+Nouvelair,15:00,17:30,2h 30min,Nouvelair,11:30,13:55,2h 25min,1 493 TND au total
+Tunisair,15:05,17:35,2h 30min,Nouvelair,11:30,13:55,2h 25min,1 615 TND au total
+Tunisair,15:05,17:35,2h 30min,Nouvelair,18:30,20:55,2h 25min,1 615 TND au total
+Air France,19:40,22:20,2h 40min,Air France,14:20,16:45,2h 25min,1 480 TND au total
+Air France,19:40,22:20,2h 40min,Air France,13:05,15:30,2h 25min,1 506 TND au total
+Tunisair,15:05,17:35,2h 30min,Tunisair,18:30,20:55,2h 25min,1 672 TND au total
+Tunisair,15:05,17:35,2h 30min,Tunisair,20:50,23:15,2h 25min,1 724 TND au total
+Tunisair,15:05,17:35,2h 30min,Tunisair,09:45,12:10,2h 25min,1 724 TND au total
+Tunisair,15:05,17:35,2h 30min,Tunisair,14:00,16:30,2h 30min,1 724 TND au total
+Tunisair,06:20,08:45,2h 25min,Nouvelair,18:30,20:55,2h 25min,1 877 TND au total
+Tunisair,06:20,08:45,2h 25min,Nouvelair,11:30,13:55,2h 25min,1 877 TND au total
+Tunisair,17:25,19:50,2h 25min,Nouvelair,11:30,13:55,2h 25min,1 877 TND au total
+Tunisair,17:25,19:50,2h 25min,Nouvelair,18:30,20:55,2h 25min,1 877 TND au total
+Tunisair,10:00,12:30,2h 30min,Nouvelair,18:30,20:55,2h 25min,1 877 TND au total
+Tunisair,10:00,12:30,2h 30min,Nouvelair,11:30,13:55,2h 25min,1 877 TND au total
+Tunisair,17:25,19:50,2h 25min,Tunisair,18:30,20:55,2h 25min,1 916 TND au total
+Tunisair,06:20,08:45,2h 25min,Tunisair,18:30,20:55,2h 25min,1 916 TND au total
+Tunisair,10:00,12:30,2h 30min,Tunisair,18:30,20:55,2h 25min,1 916 TND au total
+Air France,19:40,22:20,2h 40min,Air France,07:20,09:50,2h 30min,1 499 TND au total
+Transavia France,09:45,12:20,2h 35min,Transavia France,16:15,18:45,2h 30min,1 538 TND au total
+Transavia France,13:30,16:05,2h 35min,Transavia France,16:15,18:45,2h 30min,1 538 TND au total
+Transavia France,09:45,12:20,2h 35min,Transavia France,06:25,08:55,2h 30min,1 538 TND au total
+Transavia France,10:15,12:50,2h 35min,Transavia France,06:25,08:55,2h 30min,1 538 TND au total
+Transavia France,13:30,16:05,2h 35min,Transavia France,09:40,12:10,2h 30min,1 538 TND au total
+Transavia France,09:45,12:20,2h 35min,Transavia France,09:40,12:10,2h 30min,1 538 TND au total
+Transavia France,10:15,12:50,2h 35min,Transavia France,16:15,18:45,2h 30min,1 538 TND au total
+Transavia France,10:15,12:50,2h 35min,Transavia France,09:40,12:10,2h 30min,1 538 TND au total
+Transavia France,13:30,16:05,2h 35min,Transavia France,06:25,08:55,2h 30min,1 538 TND au total
+Nouvelair,08:00,10:30,2h 30min,Transavia France,09:40,12:10,2h 30min,1 557 TND au total
+Nouvelair,08:00,10:30,2h 30min,Transavia France,06:25,08:55,2h 30min,1 557 TND au total
+Nouvelair,08:00,10:30,2h 30min,Transavia France,16:15,18:45,2h 30min,1 557 TND au total
+Tunisair,15:05,17:35,2h 30min,Transavia France,06:25,08:55,2h 30min,1 576 TND au total
+Tunisair,15:05,17:35,2h 30min,Transavia France,16:15,18:45,2h 30min,1 576 TND au total
+Tunisair,15:05,17:35,2h 30min,Transavia France,09:40,12:10,2h 30min,1 576 TND au total
+Transavia France,13:30,16:05,2h 35min,Nouvelair,18:30,20:55,2h 25min,1 595 TND au total
+Transavia France,10:15,12:50,2h 35min,Nouvelair,18:30,20:55,2h 25min,1 595 TND au total
+Transavia France,09:45,12:20,2h 35min,Nouvelair,11:30,13:55,2h 25min,1 595 TND au total
+Transavia France,13:30,16:05,2h 35min,Nouvelair,11:30,13:55,2h 25min,1 595 TND au total
+Transavia France,09:45,12:20,2h 35min,Nouvelair,18:30,20:55,2h 25min,1 595 TND au total
+Transavia France,10:15,12:50,2h 35min,Nouvelair,11:30,13:55,2h 25min,1 595 TND au total
+Air France,16:30,19:10,2h 40min,Air France,14:20,16:45,2h 25min,1 672 TND au total
+Air France,10:50,13:30,2h 40min,Air France,14:20,16:45,2h 25min,1 679 TND au total
+Nouvelair,15:00,17:30,2h 30min,Transavia France,06:25,08:55,2h 30min,1 685 TND au total
+Nouvelair,15:00,17:30,2h 30min,Transavia France,09:40,12:10,2h 30min,1 685 TND au total
+Nouvelair,15:00,17:30,2h 30min,Transavia France,16:15,18:45,2h 30min,1 685 TND au total
+Air France,16:30,19:10,2h 40min,Air France,07:20,09:50,2h 30min,1 685 TND au total
+Air France,10:50,13:30,2h 40min,Air France,07:20,09:50,2h 30min,1 692 TND au total
+Air France,10:50,13:30,2h 40min,Air France,13:05,15:30,2h 25min,1 698 TND au total
+Air France,16:30,19:10,2h 40min,Air France,13:05,15:30,2h 25min,1 698 TND au total
+Air France,17:45,20:15,2h 30min,Air France,14:20,16:45,2h 25min,1 788 TND au total
+Air France,17:45,20:15,2h 30min,Air France,07:20,09:50,2h 30min,1 807 TND au total
+Air France,17:45,20:15,2h 30min,Air France,13:05,15:30,2h 25min,1 813 TND au total
+Tunisair,17:25,19:50,2h 25min,Transavia France,06:25,08:55,2h 30min,1 839 TND au total
+Tunisair,17:25,19:50,2h 25min,Transavia France,16:15,18:45,2h 30min,1 839 TND au total
+Tunisair,17:25,19:50,2h 25min,Transavia France,09:40,12:10,2h 30min,1 839 TND au total
+Nouvelair,08:00,10:30,2h 30min,Tunisair,18:30,20:55,2h 25min,1 877 TND au total
+Nouvelair,08:00,10:30,2h 30min,Air France,14:20,16:45,2h 25min,1 884 TND au total
+Nouvelair,08:00,10:30,2h 30min,Air France,13:05,15:30,2h 25min,1 903 TND au total
+Tunisair,15:05,17:35,2h 30min,Air France,14:20,16:45,2h 25min,1 903 TND au total
+Nouvelair,08:00,10:30,2h 30min,Air France,07:20,09:50,2h 30min,1 903 TND au total
+Tunisair,15:05,17:35,2h 30min,Air France,13:05,15:30,2h 25min,1 922 TND au total
+Tunisair,15:05,17:35,2h 30min,Air France,07:20,09:50,2h 30min,1 922 TND au total
+Tunisair,06:20,08:45,2h 25min,Tunisair,20:50,23:15,2h 25min,1 973 TND au total
+Tunisair,17:25,19:50,2h 25min,Tunisair,09:45,12:10,2h 25min,1 973 TND au total
+Tunisair,17:25,19:50,2h 25min,Tunisair,20:50,23:15,2h 25min,1 973 TND au total
+Tunisair,06:20,08:45,2h 25min,Tunisair,09:45,12:10,2h 25min,1 973 TND au total
+Tunisair,17:25,19:50,2h 25min,Tunisair,14:00,16:30,2h 30min,1 973 TND au total
+Tunisair,10:00,12:30,2h 30min,Tunisair,09:45,12:10,2h 25min,1 973 TND au total
+Tunisair,10:00,12:30,2h 30min,Tunisair,20:50,23:15,2h 25min,1 973 TND au total
+Tunisair,06:20,08:45,2h 25min,Tunisair,14:00,16:30,2h 30min,1 973 TND au total
+Tunisair,10:00,12:30,2h 30min,Tunisair,14:00,16:30,2h 30min,1 973 TND au total
+Air France,19:40,22:20,2h 40min,Nouvelair,18:30,20:55,2h 25min,1 973 TND au total
+Air France,19:40,22:20,2h 40min,Nouvelair,11:30,13:55,2h 25min,1 973 TND au total
+Nouvelair,15:00,17:30,2h 30min,Tunisair,18:30,20:55,2h 25min,2 005 TND au total
+Nouvelair,15:00,17:30,2h 30min,Air France,14:20,16:45,2h 25min,2 012 TND au total
+Nouvelair,15:00,17:30,2h 30min,Air France,13:05,15:30,2h 25min,2 031 TND au total
+Nouvelair,15:00,17:30,2h 30min,Air France,07:20,09:50,2h 30min,2 031 TND au total
+Transavia France,19:30,22:05,2h 35min,Transavia France,16:15,18:45,2h 30min,1 800 TND au total
+Transavia France,19:30,22:05,2h 35min,Transavia France,06:25,08:55,2h 30min,1 800 TND au total
+Transavia France,19:30,22:05,2h 35min,Transavia France,09:40,12:10,2h 30min,1 800 TND au total
+Tunisair,06:20,08:45,2h 25min,Transavia France,16:15,18:45,2h 30min,1 839 TND au total
+Tunisair,06:20,08:45,2h 25min,Transavia France,09:40,12:10,2h 30min,1 839 TND au total
+Tunisair,06:20,08:45,2h 25min,Transavia France,06:25,08:55,2h 30min,1 839 TND au total
+Tunisair,10:00,12:30,2h 30min,Transavia France,09:40,12:10,2h 30min,1 839 TND au total
+Tunisair,10:00,12:30,2h 30min,Transavia France,06:25,08:55,2h 30min,1 839 TND au total
+Tunisair,10:00,12:30,2h 30min,Transavia France,16:15,18:45,2h 30min,1 839 TND au total
+Transavia France,19:30,22:05,2h 35min,Nouvelair,18:30,20:55,2h 25min,1 852 TND au total
+Transavia France,19:30,22:05,2h 35min,Nouvelair,11:30,13:55,2h 25min,1 852 TND au total
+Transavia France,13:30,16:05,2h 35min,Tunisair,18:30,20:55,2h 25min,1 858 TND au total
+Transavia France,10:15,12:50,2h 35min,Tunisair,18:30,20:55,2h 25min,1 858 TND au total
+Transavia France,09:45,12:20,2h 35min,Tunisair,18:30,20:55,2h 25min,1 858 TND au total
+Transavia France,09:45,12:20,2h 35min,Air France,14:20,16:45,2h 25min,1 871 TND au total
+Transavia France,13:30,16:05,2h 35min,Air France,14:20,16:45,2h 25min,1 871 TND au total
+Transavia France,10:15,12:50,2h 35min,Air France,14:20,16:45,2h 25min,1 871 TND au total
+Transavia France,10:15,12:50,2h 35min,Air France,13:05,15:30,2h 25min,1 884 TND au total
+Transavia France,13:30,16:05,2h 35min,Air France,13:05,15:30,2h 25min,1 884 TND au total
+Transavia France,09:45,12:20,2h 35min,Air France,13:05,15:30,2h 25min,1 884 TND au total
+Transavia France,10:15,12:50,2h 35min,Air France,07:20,09:50,2h 30min,1 884 TND au total
+Transavia France,09:45,12:20,2h 35min,Air France,07:20,09:50,2h 30min,1 884 TND au total
+Transavia France,13:30,16:05,2h 35min,Air France,07:20,09:50,2h 30min,1 884 TND au total
+Air France,19:40,22:20,2h 40min,Transavia France,09:40,12:10,2h 30min,1 922 TND au total
+Air France,19:40,22:20,2h 40min,Transavia France,16:15,18:45,2h 30min,1 922 TND au total
